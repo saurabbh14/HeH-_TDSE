@@ -1,0 +1,11 @@
+4.0, 1.0            ! m1=mass of He, m2=mass of H
+0.1                 ! dt           = time step in a.u.
+50000               ! Nt           = Number of time steps.
+2                   ! Nstates      = Number of calculated excited states.
+12                  ! Vstates      = Number of calculated excited states.
+1.5                 ! RI          = center of initial Gaussian in PROP_2D in 10^-10 m.
+-60.0               ! kappa        = center of initial Gaussian in PROP_2D in 10^-10 m.
+3200., 800.0	    ! lambda1 = wavelength of pulse in nm & lambda2
+25.,50.,0.1, 0.0    ! tp, t_start, E0 = fwhm, start, and strength of laser pulse
+0., 0.		    ! phasepoints: phi*pi
+
