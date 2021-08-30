@@ -1,4 +1,4 @@
-# HeH-_TDSE
+# HeH+_TDSE
 
 This is 2D TDSE base code in length gauge.
 
